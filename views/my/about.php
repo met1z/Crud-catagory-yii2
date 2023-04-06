@@ -1,0 +1,1 @@
+<h1 style="margin: auto">Про нас</h1>
